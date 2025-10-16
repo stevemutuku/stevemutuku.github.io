@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{SITE_TITLE}}</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <div class="brand">Steve Mutuku <span>— Engineer · PM · Author</span></div>
+      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#books">Books</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <h1>{{SITE_TITLE}}</h1>
+          <p class="lead">{{BIO}}</p>
+          <div class="cta-group">
+            <a class="btn primary" href="#projects">View Projects</a>
+            <a class="btn" href="#books">Explore Books</a>
+          </div>
+        </div>
+        <div class="hero-card">
+          <div class="stat"><strong>10+ yrs</strong><span>Delivering infrastructure</span></div>
+          <div class="stat"><strong>Leadership</strong><span>Teams, systems, cadence</span></div>
+          <div class="stat"><strong>Author</strong><span>Practical, modern voice</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="narrow">
+        <h2>About</h2>
+        <p>{{BIO}}</p>
+      </div>
+    </section>
+
+    <section id="projects" class="section alt">
+      <div class="container">
+        <h2>Projects</h2>
+        <div class="cards">{{PROJECTS_CARDS}}</div>
+      </div>
+    </section>
+
+    <section id="books" class="section">
+      <div class="container">
+        <h2>Books</h2>
+        <div class="cards">{{BOOKS_CARDS}}</div>
+      </div>
+    </section>
+
+    <section id="contact" class="section alt">
+      <div class="narrow">
+        <h2>Contact</h2>
+        <ul class="contact-list">
+          <li>Email: <a href="mailto:{{EMAIL}}">{{EMAIL}}</a></li>
+          <li>LinkedIn: <a target="_blank" rel="noopener" href="{{LINKEDIN}}">{{LINKEDIN}}</a></li>
+          <li>GitHub: <a target="_blank" rel="noopener" href="{{GITHUB}}">{{GITHUB}}</a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container small muted">© <span id="year"></span> Steve Mutuku. All rights reserved.</div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

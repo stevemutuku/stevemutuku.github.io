@@ -1,0 +1,79 @@
+{
+  "site_title": "Steve Mutuku \u2014 Engineer \u00b7 Project Manager \u00b7 Author",
+  "bio": "I am a civil engineer and project manager who builds systems that deliver. My work blends technical excellence with team leadership\u2014clear plans, tight communication, and accountability. I\u2019m also an author, writing in a voice that is direct, modern, and practical.",
+  "email": "hello@stevemutuku.com",
+  "linkedin": "https://www.linkedin.com/in/stevemutuku",
+  "github": "https://github.com/stevemutuku",
+  "projects": [
+    {
+      "title": "Kyerwa\u2013Omurushaka Road Upgrade",
+      "role": "Project leadership, execution planning, stakeholder coordination",
+      "scope": "Design & Build, 50 km, bitumen standard",
+      "impact": "Improved regional mobility and safety; streamlined delivery systems"
+    },
+    {
+      "title": "Quality & Materials Management",
+      "role": "QA/QC frameworks for materials testing and documentation",
+      "scope": "Supervision and compliance aligned to GCC and Employer\u2019s Requirements",
+      "impact": "Reduced rework, stronger audit trail, faster approvals"
+    },
+    {
+      "title": "Process & Team Systems",
+      "role": "Meeting rhythms, risk registers, mobilization tracking, decision logs",
+      "scope": "Cross-functional project ops",
+      "impact": "Predictable cadence, clearer decisions, fewer bottlenecks"
+    }
+  ],
+  "books": [
+    {
+      "title": "Agile Leadership",
+      "blurb": "Becoming the kind of leader people trust and movements follow.",
+      "amazon": "#"
+    },
+    {
+      "title": "Leading Projects: The Upstream Advantage",
+      "blurb": "Winning before it starts \u2014 strategy, mobilization, and momentum.",
+      "amazon": "#"
+    },
+    {
+      "title": "Woman, Thou Art Vindicated",
+      "blurb": "Stories of women who faced prejudice and injustice\u2014and prevailed with courage and faith.",
+      "amazon": "https://www.amazon.in/-/hi/Steve-Mutuku-ebook/dp/B0D9DB66X4"
+    },
+    {
+      "title": "Why Great Men Fall Scriptures Ebook",
+      "blurb": "Description coming soon.",
+      "amazon": "https://www.amazon.com/WHY-GREAT-MEN-FALL-Scriptures-ebook/dp/B0FM8HD4YQ"
+    },
+    {
+      "title": "Leading Projects Upstream Advantage Strategy Ebook",
+      "blurb": "Description coming soon.",
+      "amazon": "https://www.amazon.com/LEADING-PROJECTS-Upstream-Advantage-Strategy-ebook/dp/B0FM8H24CJ"
+    },
+    {
+      "title": "Cool At Fifty Beyond Mellowing Ebook",
+      "blurb": "Description coming soon.",
+      "amazon": "https://www.amazon.com/COOL-AT-FIFTY-BEYOND-MELLOWING-ebook/dp/B0FLYFD9T9"
+    },
+    {
+      "title": "Agile Way Live Biblical Wisdom Ebook",
+      "blurb": "Description coming soon.",
+      "amazon": "https://www.amazon.com/Agile-Way-Live-Biblical-Wisdom-ebook/dp/B0F7M5CWQN"
+    },
+    {
+      "title": "Steves List Awkward Moments Hilariously Ebook",
+      "blurb": "Description coming soon.",
+      "amazon": "https://www.amazon.in/Steves-List-Awkward-Moments-Hilariously-ebook/dp/B0FL7DCFC7"
+    },
+    {
+      "title": "Untitled",
+      "blurb": "Description coming soon.",
+      "amazon": "https://www.amazon.in/-/hi/STEVE-MUTUKU-ebook/dp/B0FP92VNGF"
+    },
+    {
+      "title": "Why We Do The Things We Do",
+      "blurb": "Description coming soon.",
+      "amazon": "https://www.facebook.com/PastorAndrewMwangi/posts/1154620856467620"
+    }
+  ]
+}
